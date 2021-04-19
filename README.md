@@ -8,8 +8,11 @@ V. Isualize, the CEO and co-founder of PyBer, a ride-sharing app, has given Omar
 ---
 ![RideShareSummary](https://user-images.githubusercontent.com/70344787/115171235-da60cd80-a07f-11eb-8c3b-fcc77ddfc0e0.PNG)
 
+
+
 ![WeeklySummary](https://user-images.githubusercontent.com/70344787/115171752-fd3fb180-a080-11eb-8538-fb10808c6275.PNG)
 
+![GraphSummary](https://user-images.githubusercontent.com/70344787/115171880-4abc1e80-a081-11eb-8568-3b437ba860a2.PNG)
 
 
 ### Summary
