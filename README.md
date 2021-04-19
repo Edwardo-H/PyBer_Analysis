@@ -12,18 +12,16 @@ As one can tell from looking at the summary chart, rides in urban areas account 
 
 ![WeeklySummary](https://user-images.githubusercontent.com/70344787/115171752-fd3fb180-a080-11eb-8538-fb10808c6275.PNG)
 
-An analysis of weekly trends comparing revenues by week in rural, suburban, and urban cities futher illustrates that the urban cities are consistently responsible for the most revenue.
+An analysis of weekly trends comparing revenues by week in rural, suburban, and urban cities futher reflects that the urban cities are continuously responsible for the most revenue.
 
 ![GraphSummary](https://user-images.githubusercontent.com/70344787/115171880-4abc1e80-a081-11eb-8568-3b437ba860a2.PNG)
 
+For those who prefer a visual representation, the graph further illustrates that the revenue stream is consistently led by the urban market.
 
 ### Summary
 ---
+Based on the analysis performed, there are certainly several areas of interest that should be pointed out to Ms. Isualize.
+* I would look into why there are more drivers (2,405) than rides (1,625) found in the data provided.
 
-#### Advantages
-Some advantages of refactoring code include improving the speed of the output and by streamlining the code to get rid of any unnecessary elements that may cause confusion or be misleading. Also, it could increase a programmer's productivity if they can make adjustments to a similar existing code rather than start a new one from scratch.
-
-#### Disadvantages
-On the other hand, refactoring code can be diasdavantageous if coders become to reliant on existing code thus effecting their creativity and critical thinking that might allow them to see "a new way of doing things". Also, a programmer might rely on an existing code that is ineffectice or sloppy resulting in wasting valuable time.
 
 
