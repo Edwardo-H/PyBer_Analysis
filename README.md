@@ -22,6 +22,8 @@ For those who prefer a visual representation, the graph further illustrates that
 ---
 Based on the analysis performed, there are certainly several areas of interest that should be pointed out to Ms. Isualize.
 * I would look into why there are more drivers (2,405) than rides (1,625) found in the data provided.
+* Why so rides in rural areas bring in higher fares than urban areas? Are rates based on time or mileage?
+* Surely there must be some rides that travel between more than 1 of these cities (areas). How are rides calculated if for example, someone begins their trip in an urban city, travels through suburban cities, and ends their trip in a rural city?
 
 
 
