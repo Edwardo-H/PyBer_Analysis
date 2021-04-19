@@ -1,3 +1,4 @@
+
 ## Overview of Project
 ---
 V. Isualize, the CEO and co-founder of PyBer, a ride-sharing app, has given Omar (our manager) and his team (us) an assignment to create a summary DataFrame of the ride-sharing data by city type. Furthermore, she would like to see a multiple-line graph that shows the total weekly fares for each city type. We will use Pandas and Matplotlib to accomplish these tasks and summarize how the data differs by city type.
@@ -5,6 +6,7 @@ V. Isualize, the CEO and co-founder of PyBer, a ride-sharing app, has given Omar
 
 ### Results
 ---
+![RideShareSummary](https://user-images.githubusercontent.com/70344787/115171235-da60cd80-a07f-11eb-8c3b-fcc77ddfc0e0.PNG)
 **2017 Stock Performance**
 ![2017 Format](https://user-images.githubusercontent.com/70344787/112780874-f89a5700-9006-11eb-8207-ad904e4ed608.PNG)
 
