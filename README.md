@@ -2,12 +2,7 @@
 ---
 V. Isualize, the CEO and co-founder of PyBer, a ride-sharing app, has given Omar (our manager) and his team (us) an assignment to create a summary DataFrame of the ride-sharing data by city type. Furthermore, she would like to see a multiple-line graph that shows the total weekly fares for each city type. We will use Pandas and Matplotlib to accomplish these tasks and summarize how the data differs by city type.
 ---
-### Purpose
----
-Using Visual Basic for Applications (VBA) available in Excel, this project attempts to refactor the original code to once again loop through the original data and determine if the VBA script will run faster after refactoring the code. To prove the success of this endeavor, the following outputs will be provided:
-- Pop-up message showing elapsed time to run analysis for 2017
-- Pop-up message showing elapsed time to run analysis for 2018
----
+
 ### Results
 ---
 **2017 Stock Performance**
