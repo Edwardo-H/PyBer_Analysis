@@ -16,7 +16,7 @@ An analysis of weekly trends comparing revenues by week in rural, suburban, and 
 
 ![GraphSummary](https://user-images.githubusercontent.com/70344787/115171880-4abc1e80-a081-11eb-8568-3b437ba860a2.PNG)
 
-For those who prefer a visual representation, the line graph further illustrates that the revenue stream is consistently led by the urban market.![Fig1](https://user-images.githubusercontent.com/70344787/115174712-fc118300-a086-11eb-87d5-640b7cd2959a.png)
+For those who prefer a visual representation, the line graph further illustrates that the revenue stream is consistently led by the urban market.
 
 ![Fig1](https://user-images.githubusercontent.com/70344787/115174739-0af83580-a087-11eb-9ae1-5c6120545e3b.png)
 
